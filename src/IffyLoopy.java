@@ -24,7 +24,7 @@ public class IffyLoopy {
                 System.out.println("Thanks you gonna exit");
                 System.exit(0);
             }
-        }while(true);
+    }while(true);
     }
 }
 
